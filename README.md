@@ -9,19 +9,34 @@ We can say that predictive Analytics.
  Dataset is given by Chronicle's data team . Dataset have 15 features and 1 dependent variable(also called as the output variable; Here it is called as 'Imapct')
  
  Post Content - The text in the tweet
+
 Sentiment score - Ranges from -20 to +20 (0 - neutral)
+
 Post Length - The length of the tweet
+
 Hashtag Count - The number of hashtags used in the tweet
+
 Content URL Count - The number of URLs mentioned in the tweet
+
 Tweet Count - The total number of tweets posted by the author of the tweet
+
 Followers Count - The number of followers of the author of the post
+
 Listed Count - the number of lists the post author is a part of
+
 Media Type - The media type of the post (Text, image, video)
+
 Published Datetime - The published time of the tweet
+
 Mentions Count - The number of user mentions in the tweet
+
 Post Author Verified - 1 if author is a verified user
+
 Likes - Likes received for the tweet
+
+
 Shares - Retweets received for the tweet
+
 Comments - Number of comments for the tweet
 
 # Steps Which i have followed to deal with dataset,
